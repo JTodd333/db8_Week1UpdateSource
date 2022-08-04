@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "DiceRoller\DiceRoller.csproj", "{8CFF895A-EEE5-42AC-B051-B56E647C8643}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{5DB45431-22D9-44DF-B85D-913760BBA8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB45431-22D9-44DF-B85D-913760BBA8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB45431-22D9-44DF-B85D-913760BBA8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFF895A-EEE5-42AC-B051-B56E647C8643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFF895A-EEE5-42AC-B051-B56E647C8643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFF895A-EEE5-42AC-B051-B56E647C8643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFF895A-EEE5-42AC-B051-B56E647C8643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
